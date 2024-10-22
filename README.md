@@ -1,3 +1,12 @@
+ <!-- Navbar -->
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contribute</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
 <h1 align="center"> Hacktoberfest-2024 </h1>
 
 This repo is a beginner friendly repo where you can make your first `OPEN SOURCE` contribution.
